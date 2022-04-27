@@ -10,4 +10,4 @@ def gcd(r0, r1):
                 return r1
             else:
                 temp = r0 %r1
-                return ggt(r1, temp)
+                return gcd(r1, temp)
