@@ -1,2 +1,2 @@
 # Python-Snipits
-Some usefull Pythonsnipits i wrote over the time
+Some usefull Pythonsnipits I wrote over the time
