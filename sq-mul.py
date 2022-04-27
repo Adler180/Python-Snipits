@@ -11,7 +11,7 @@ def toBinary(x):
     return ret
 
 
-def eea(a, d, p):
+def sq_mul(a, d, p):
     #Calculates a^d mod p
     variab = a
     x = toBinary(d)
@@ -24,7 +24,7 @@ def eea(a, d, p):
     return variab
   
   
-  def eeaSteps(a, d, p):
+  def sq_mul_Steps(a, d, p):
     #Calculates a^d mod p and prints out the Square and Multiplication Steps
     variab = a
     x = toBinary(d)
